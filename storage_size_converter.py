@@ -5,7 +5,7 @@ And it was really a tough but worthwhile process to structure and idea and debug
 Thanks for IB can give me motivation to innovate and think more meaningful and practical through CAS.
 """
 
-__author__ = "Jinhao Li"
+__author__ = "Alex Lee"
 
 import re
 
